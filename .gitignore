@@ -1,3 +1,3 @@
-/config/config
-/config/config-prod
+/config/config.js
+/config/config-prod.js
 .codegpt
