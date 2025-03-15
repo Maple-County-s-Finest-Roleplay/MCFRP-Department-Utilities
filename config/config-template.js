@@ -17,3 +17,4 @@ module.exports = {
   
   }
   
+  // Rename this file to "config.js" when you've set all the information.
