@@ -18,7 +18,7 @@ const departmentServers = [
     "1218160960771063838", // HTPD
 ];
 
-const mainServerId = "1072621508175876218"; // Replace with the main server ID
+const mainServerId = "1072621508175876218";
 
 client.on('guildMemberRemove', async (member) => {
     try {

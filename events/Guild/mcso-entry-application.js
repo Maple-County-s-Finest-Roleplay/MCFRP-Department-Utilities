@@ -309,9 +309,9 @@ async function uploadApplicationToFTP(application, content, user) {
     try {
         console.log("Connecting to FTP server...");
         await ftpClient.access({
-            host: "ftp.maplecountysfinestroleplay.xyz",
-            user: 'applications@maplecountysfinestroleplay.xyz',
-            password: 'MCFRPBot!',
+            host: "",
+            user: '',
+            password: '',
             secure: false
         });
 
