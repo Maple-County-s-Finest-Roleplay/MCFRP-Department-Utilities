@@ -39,8 +39,11 @@ For the final few months of the bots existence, the Maple County Sheriff's Offic
 
 ### Other Features
 **Investigation Notice:** The Maple County Sheriff's Office's CID team used a special investigation notice feature. Basically, the bot would listen to the MCFRP CAD Logs channel for investigation reports, and it would mirror the report to the MCSO Department Discord for investigators to begin their investigation.
+
 **Role Sync:** For a few months in August-September, we expiremented with a Role Syncing feature to sync roles between department servers and the main server and vice versa. This feature never saw the light of day as it was very broken and, interestingly enough, would only work properly for Fairfield Police Department roles. If you can get this to work, I'd be happy to merge your PR.
+
 **Sync Leaves and Bans:** This was another broken system designed to make MCFRP Moderators' lives easier. Basically, if a user was banned from the main server it would ban them from all Department Discords, and if a user was kicked or left the main server, it would also remove from all Department Discords. I'm unsure why this feature didn't work, as I've compared it to other working versions of the same feature and my code should have worked. If you can get this to work, I'd be happy to merge your PR.
+
 **Time Parser:** MCFRP Department Utilities featured a full time parser for the Shifts and LOA modules. It was a fork of the time parser from the main MCFRP Utilities bot.
 
 ---
