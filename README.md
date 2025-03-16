@@ -48,4 +48,4 @@ For the final few months of the bots existence, the Maple County Sheriff's Offic
 
 ---
 
-**Issues?** Open an issue and I'll take a look at it, but there's no garauntee I'll be able to fix it or be willing to fix it. If you have any questions, DM me on Discord @thedylanator or email me (here)[mailto:dylan+github@thedylanator.com]. I hope you can enjoy this piece of work even if my server can't :)
+**Issues?** Open an issue and I'll take a look at it, but there's no garauntee I'll be able to fix it or be willing to fix it. If you have any questions, DM me on Discord @thedylanator or email me [here](mailto:dylan+github@thedylanator.com). I hope you can enjoy this piece of work even if my server can't :)
