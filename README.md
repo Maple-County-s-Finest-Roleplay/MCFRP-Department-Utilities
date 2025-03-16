@@ -1,4 +1,6 @@
 ## MCFRP Department Utilities
+Copyright (c) 2025 Maple County's Finest Roleplay
+
 This is the source code for the MCFRP Department Utilities that you may have seen or used as a member of MCFRP. This bot featured applications, shift logging, LOA logging, and utility functions for roleplay communities. 
 
 📖 This bot is designed to work with a MongoDB database using the mongoose package. If you are smart enough to do it, you can convert it to work with other databases.
